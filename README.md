@@ -1,0 +1,2 @@
+# Bilgilendirme
+Sadece Bilgilendirme
